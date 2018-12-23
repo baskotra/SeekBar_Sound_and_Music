@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coke Studio</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="volume">VOLUME:</string>
+    <string name="track">TRACK:</string>
+</resources>
